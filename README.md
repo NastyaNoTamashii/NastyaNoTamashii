@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow"/></a>
 <a href="https://obsidian.md/" target="_blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian"/></a>
 <a href="https://archlinux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux"/></a>
-<a href="" target="_blank"><img src="https://skillicons.dev/icons?i=" alt=""/></a>
+<a href="https://www.electronjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=electron" alt="Electron"/></a>
 
 <!--
 <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=" alt=""/></a>
