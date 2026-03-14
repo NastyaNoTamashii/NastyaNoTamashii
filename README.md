@@ -11,6 +11,10 @@
 + Years old: 17
 + Pronoun: She/Her
 
+```
+ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ
+```
+
 ### Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
