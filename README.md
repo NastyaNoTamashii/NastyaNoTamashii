@@ -1,6 +1,6 @@
-<div align="center">
-	## NastyaNoTamashii
-</div>
+
+## NastyaNoTamashii
+
 
 ![](https://i.imgur.com/S48y1BZ.png)
 
