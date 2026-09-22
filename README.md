@@ -44,8 +44,7 @@
 
 ### Contact's:
 
-+ Discord: `@6_legion_9`
-+ Telegram: `@Ya_takoy_susi`
++ Discord: `uwawuwa`
 
 ### Statistics:
 
