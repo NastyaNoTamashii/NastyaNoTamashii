@@ -48,6 +48,12 @@
 
 ### Statistics:
 
+<p align="center">
+  <img src="http://132.232.132.15:8001/lanluz?length=10&theme=rule34" alt="visitor counter">
+</p>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii)](https://github.com/stats-organization/github-stats-extended)
+
 <table align="center">
   <tr>
     <td align="center"><img src="profile/stats.svg" alt="GitHub stats"></td>
