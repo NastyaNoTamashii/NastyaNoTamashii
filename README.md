@@ -1,8 +1,6 @@
 ![](https://i.imgur.com/S48y1BZ.png)
 
-<div align="center">
-# Hello everynyan 👋
-</div>
+<h1 align="center">NastyaNoTamashii</h1>
 
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3Cdiv+class%3D%22NastyaNoTamashii%22%3E%3C%2Fdiv%3E;def+NastyaNoTamashii(self)%3A;console.log(%60NastyaNoTamashii%60)" alt="Typing SVG" /></a>-->
 
