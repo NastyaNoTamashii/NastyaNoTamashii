@@ -47,7 +47,9 @@
 		<td align="center"><img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=transparent&hide_border=true" alt="Top languages"></td>
 	</tr>
 </table>
+
 <br>
+
 ```
 ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨
 ```
