@@ -48,12 +48,12 @@
 
 ### Statistics:
 
-<a href="https://github.com/NastyaNoTamashii">
-    <img src="https://github-readme-stats.vercel.app/api?username=NastyaNoTamashii&show_icons=true&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=9e9e9e">
-   </a>
-<a href="https://github.com/NastyaNoTamashii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=9e9e9e" width="38.5%">
-  </a>
+<table align="center">
+  <tr>
+    <td align="center"><img src="profile/stats.svg" alt="GitHub stats"></td>
+    <td align="center"><img src="profile/top-langs.svg" alt="Top languages"></td>
+  </tr>
+</table>
 
 ### Discord profile:
 
