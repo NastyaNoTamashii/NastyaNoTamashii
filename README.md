@@ -52,14 +52,10 @@
   <img src="http://132.232.132.15:8001/lanluz?length=10&theme=rule34" alt="visitor counter">
 </p>
 
-[![NastyaNoTamashii's GitHub stats](https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii&theme=default)](https://github.com/stats-organization/github-stats-extended)
-[![NastyaNoTamashii's GitHub stats](
-https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=default)](https://github.com/stats-organization/github-stats-extended)
-
 <table align="center">
   <tr>
-    <td align="center"><img src="profile/stats.svg" alt="GitHub stats"></td>
-    <td align="center"><img src="profile/top-langs.svg" alt="Top languages"></td>
+    <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii&theme=default" alt="GitHub stats"></td>
+    <td align="center"><img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=default" alt="Top languages"></td>
   </tr>
 </table>
 
