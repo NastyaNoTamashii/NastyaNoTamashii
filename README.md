@@ -3,8 +3,6 @@
 ![image](https://img.shields.io/github/followers/NastyaNoTamashii?style=social)
 ![image](https://img.shields.io/github/stars/NastyaNoTamashii?style=social)
 
-![](https://i.imgur.com/bFCqrgi.gif)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3Cdiv+class%3D%22NastyaNoTamashii%22%3E%3C%2Fdiv%3E;def+NastyaNoTamashii(self)%3A;console.log(%60NastyaNoTamashii%60)" alt="Typing SVG" /></a>
 
 ### About me:
@@ -14,9 +12,8 @@
 + Pronoun: She/Her
 + Discord: `uwawuwa`
 
-```
-✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨
-```
+
+![](https://i.imgur.com/S48y1BZ.png)
 
 ### Languages and Tools:
 
@@ -60,3 +57,8 @@
 <div align="center">
 	<img src="https://github.com/NastyaNoTamashii/NastyaNoTamashii/blob/main/img/189500420-95442ae0-a91f-42b1-bb11-39280e15b208.svg" width="100%" height="auto">
 </div>
+
+
+```
+✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨
+```
