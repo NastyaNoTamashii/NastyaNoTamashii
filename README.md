@@ -54,8 +54,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii&theme=transperent" alt="GitHub stats"></td>
-    <td align="center"><img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=transperent" alt="Top languages"></td>
+    <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii&theme=transparent" alt="GitHub stats"></td>
+    <td align="center"><img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=transparent" alt="Top languages"></td>
   </tr>
 </table>
 
