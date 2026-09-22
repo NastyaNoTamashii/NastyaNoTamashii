@@ -1,4 +1,8 @@
-# Hello everynyan 👋
+<p align="center">
+	<i>NastyaNoTamashii</i>
+</p>
+
+![](https://i.imgur.com/S48y1BZ.png)
 
 ![image](https://img.shields.io/github/followers/NastyaNoTamashii?style=social)
 ![image](https://img.shields.io/github/stars/NastyaNoTamashii?style=social)
@@ -58,4 +62,5 @@
 
 <!--<div align="center">
 	<img src="https://github.com/NastyaNoTamashii/NastyaNoTamashii/blob/main/img/189500420-95442ae0-a91f-42b1-bb11-39280e15b208.svg" width="100%" height="auto">
-</div>-->
+</div>
+# Hello everynyan 👋-->
