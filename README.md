@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 	<h1>NastyaNoTamashii</h1>
-</p>
+</div>
 
 ![](https://i.imgur.com/S48y1BZ.png)
 
