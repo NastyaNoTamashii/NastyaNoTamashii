@@ -6,7 +6,7 @@
 
 + **Name:** Anastasia 🏳️‍⚧️
 + **Years old:** 18
-+ **Pronoun:** She/Her
++ **Pronouns:** She/Her
 + **Discord:** `uwawuwa`
 
 ![](https://i.imgur.com/S48y1BZ.png)
