@@ -38,24 +38,23 @@
 <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=" alt=""/></a>
 -->
 
-### Views:
-
-<a href="https://github.com/NastyaNoTamashii" target="_blank"><img src="https://count.getloli.com/get/@NastyaNoTamashii?theme=rule32" alt="Views"/></a>
-
-### Contact's:
-
-+ Discord: `uwawuwa`
-
 ### Statistics:
 
+
+<p align="center">
+	<a href="https://github.com/NastyaNoTamashii" target="_blank""><img src="https://count.getloli.com/get/@NastyaNoTamashii?theme=rule32" alt="Views"/></a>
+</p>
+
 <table align="center">
-  <tr>
-    <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii&theme=transparent&hide_border=true" alt="GitHub stats"></td>
-    <td align="center"><img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=transparent&hide_border=true" alt="Top languages"></td>
-  </tr>
+	<tr>
+		<td align="center"><img src="https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii&theme=transparent&hide_border=true" alt="GitHub stats"></td>
+		<td align="center"><img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=transparent&hide_border=true" alt="Top languages"></td>
+	</tr>
 </table>
 
 ### Discord profile:
+
++ Discord: `uwawuwa`
 
 <div align="center">
 	<a href="https://discord.com/users/660176203755552768"><img src="https://lanyard.cnrad.dev/api/660176203755552768" alt="Discord Presence"></a>
