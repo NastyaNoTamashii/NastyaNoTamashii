@@ -1,5 +1,5 @@
 <p align="center">
-	<font size="5">NastyaNoTamashii</font>
+	<h1>NastyaNoTamashii</h1>
 </p>
 
 ![](https://i.imgur.com/S48y1BZ.png)
