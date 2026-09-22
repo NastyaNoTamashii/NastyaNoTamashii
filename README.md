@@ -4,6 +4,7 @@
 ![image](https://img.shields.io/github/stars/NastyaNoTamashii?style=social)
 
 ![](https://i.imgur.com/bFCqrgi.gif)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3Cdiv+class%3D%22NastyaNoTamashii%22%3E%3C%2Fdiv%3E;def+NastyaNoTamashii(self)%3A;console.log(%60NastyaNoTamashii%60)" alt="Typing SVG" /></a>
 
 ### About me:
@@ -59,14 +60,3 @@
 <div align="center">
 	<img src="https://github.com/NastyaNoTamashii/NastyaNoTamashii/blob/main/img/189500420-95442ae0-a91f-42b1-bb11-39280e15b208.svg" width="100%" height="auto">
 </div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NastyaNoTamashii&show_icons=true&bg_color=151515&title_color=ffffff&text_color=9e9e9e)
-
-| язык | % | изучен |
-|-------|:-------:|--------:|
-|python|36%|изучен|
-|HTML|67%|изучен|
-|CSS|32%|изучен|
-
