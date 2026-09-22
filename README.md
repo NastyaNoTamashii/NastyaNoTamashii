@@ -52,7 +52,9 @@
   <img src="http://132.232.132.15:8001/lanluz?length=10&theme=rule34" alt="visitor counter">
 </p>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii)](https://github.com/stats-organization/github-stats-extended)
+[![NastyaNoTamashii's GitHub stats](https://github-stats-extended.vercel.app/api?username=NastyaNoTamashii&theme=default)](https://github.com/stats-organization/github-stats-extended)
+[![NastyaNoTamashii's GitHub stats](
+https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=default)](https://github.com/stats-organization/github-stats-extended)
 
 <table align="center">
   <tr>
