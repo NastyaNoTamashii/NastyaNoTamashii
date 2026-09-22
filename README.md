@@ -10,6 +10,7 @@
 + Name: Anastasia 🏳️‍⚧️
 + Years old: 18
 + Pronoun: She/Her
++ Discord: `uwawuwa`
 
 ```
 ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨ ᓚ₍ ^. .^₎ ₍^. .^₎Ⳋ ✨
@@ -51,14 +52,6 @@
 		<td align="center"><img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=NastyaNoTamashii&layout=compact&theme=transparent&hide_border=true" alt="Top languages"></td>
 	</tr>
 </table>
-
-### Discord profile:
-
-+ Discord: `uwawuwa`
-
-<div align="center">
-	<a href="https://discord.com/users/660176203755552768"><img src="https://lanyard.cnrad.dev/api/660176203755552768" alt="Discord Presence"></a>
-</div>
 
 ---
 
